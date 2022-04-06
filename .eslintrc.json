@@ -11,6 +11,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "eslint":"recommended"
+        "no-console": "off",
+        "no-empty": "off"
     }
 }
